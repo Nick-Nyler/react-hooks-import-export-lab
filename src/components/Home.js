@@ -9,3 +9,7 @@ function Home() {
     </div>
   );
 }
+
+export const username = "Liza";
+export const city = "New York";
+export default Home;
